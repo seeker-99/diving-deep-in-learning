@@ -1,1 +1,1 @@
-Contains
+Contains work on building deep learning systems starting from MP Neuron & Perceptron models, to gradually undertstanding Feedforward neural networks and backpropagation with various optimisation algorithms like gradient decent, Adagrad, RmsProp, Nesterov accelerated GD
